@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Stephanie Egwuchukwu
   role: Junior, Philosophy Pre-law
-  image: assets/images/IMG_4403.jpeg
+  image: /assets/images/IMG_4403.jpeg
   linkedin: https://www.linkedin.com/in/stephanie-egwuchukwu/
   bio: |
     Hi! I'm Stephanie, a Philosophy Pre-law student with a minor in Business Administration and Management in the CEAMLS SAIRI Summer Research program.
