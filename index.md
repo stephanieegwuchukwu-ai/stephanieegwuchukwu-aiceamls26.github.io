@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like music"
 
 linkedin: https://www.linkedin.com/in/stephanie-egwuchukwu/
-image: /assets/images/profile.svg
+image: assets/images/IMG_4403.jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
