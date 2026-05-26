@@ -8,19 +8,19 @@ motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
   - "🎓 Junior, Philosophy"
-  - "🔬 Interested in Quantum Physics"
+  - "🔬 Interested in healthcare law and ethics"
   - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🚀 I like cooking"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/stephanie-egwuchukwu/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
-  - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
-  - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
-  - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+  - label: Photography
+    text: "I love capuring little moment in nature, like the skies, buildings, and everything that catches my eye"
+  - label: Music
+    text: "I enjoy listening to a variety of genres, mostly gospel, it lets me relax and just be present in the moment"
+  - label: Community Outreach
+    text: "Giving back and supporting others is something I deeply value"
 ---
