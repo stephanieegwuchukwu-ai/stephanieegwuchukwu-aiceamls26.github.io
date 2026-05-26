@@ -5,11 +5,11 @@ permalink: /about-me.html
 
 about:
   name: Stephanie Egwuchukwu
-  role: Junior, Computer Science
+  role: Junior, Philosophy Pre-law
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/stephanie-egwuchukwu/
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Stephanie, a Philosophy Pre-law student with a minor in Business Administration and Management in the CEAMLS SAIRI Summer Research program.
 
     My research interests sit at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
@@ -20,7 +20,7 @@ about:
 
   hobbies:
     - icon: 🎨
-      title: Digital Art
+      title: Singing
       description: I make small illustrations and pixel art in my spare time.
     - icon: 🚲
       title: Biking
