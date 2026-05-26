@@ -1,13 +1,13 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Stephanie Egwuchukwu                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
+  - "🎓 Junior, Philosophy"
   - "🔬 Interested in Quantum Physics"
   - "📍 Based in Baltimore, MD"
   - "🚀 I like pineapples"
