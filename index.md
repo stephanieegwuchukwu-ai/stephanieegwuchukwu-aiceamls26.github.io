@@ -10,7 +10,7 @@ quick_facts:
   - "🎓 Junior, Philosophy"
   - "🔬 Interested in healthcare law and ethics"
   - "📍 Based in Baltimore, MD"
-  - "🚀 I like cooking"
+  - "🚀 I like music"
 
 linkedin: https://www.linkedin.com/in/stephanie-egwuchukwu/
 image: /assets/images/profile.svg
