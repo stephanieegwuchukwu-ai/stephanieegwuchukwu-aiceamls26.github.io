@@ -17,14 +17,14 @@ about:
 
   hobbies:
     - icon: 🎨
-      title: Singing
-      description: I make small illustrations and pixel art in my spare time.
+      title: Drawing
+      description: I make small illustrations and sketch in my spare time.
     - icon: 🚲
-      title: Biking
+      title: Walking
       description: Weekend trail rides are how I reset.
     - icon: 📚
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: novels and design essays — both equally inspiring.
 
   gallery:
     - image: /assets/images/gallery-1.svg
