@@ -11,9 +11,7 @@ about:
   bio: |
     Hi! I'm Stephanie, a Philosophy Pre-law student with a minor in Business Administration and Management in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests  have to do with AI ethics, algorithmic biases, and fairness when it comes to healthcare technology, including how data-driven approaches enable reliable and humanistic medical decisions and ethics. I'm especially curious about how everyday tools can be made more accessible and adaptive through smart software.
 
     Outside of class, when I'm not researching I'm in listening to music, I'm cooking, or hanging out with some friends.
 
