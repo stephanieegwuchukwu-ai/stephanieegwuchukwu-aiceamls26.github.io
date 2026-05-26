@@ -15,8 +15,7 @@ about:
     machine learning. I'm especially curious about how everyday tools can be made more
     accessible and adaptive through smart software.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, when I'm not researching I'm in listening to music, I'm cooking, or hanging out with some friends.
 
   hobbies:
     - icon: 🎨
