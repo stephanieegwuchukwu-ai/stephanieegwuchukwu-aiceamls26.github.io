@@ -4,7 +4,7 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Stephanie Egwuchukwu
   role: Junior, Computer Science
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/example
