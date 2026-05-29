@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Sudip Sharma
+  linkedin: https://www.linkedin.com/in/nxxis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Blessing Ojeme
+  linkedin: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ---
