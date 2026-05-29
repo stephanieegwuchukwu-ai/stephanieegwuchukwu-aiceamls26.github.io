@@ -20,7 +20,7 @@ faculty_mentor:
   website: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   
   bio: |
-    Dr. Ojeme teaches artificial intelligence, machine learning, python programming, data structures, design and analysis of algorithms, and  software engineering at both undergraduate and graduate levels at Morgan State University. Dr Ojeme leads an AI research group focusing on healthcare technology, machine learning, and algorithmic fairness. The research explores how artificial intelligence can support more accurate, reliable, and equitable medical decision=making using real-world clinical data.
+    Dr. Ojeme teaches artificial intelligence, machine learning, python programming, data structures, design and analysis of algorithms, and  software engineering at both undergraduate and graduate levels at Morgan State University. Dr Ojeme leads an AI research group focusing on healthcare technology, machine learning, and algorithmic fairness. The research explores how artificial intelligence can support more accurate, reliable, and equitable medical decision-making using real-world clinical data.
 
-    Dr. Nguyen remains committed to empowering the next generation of innovetors with technical tools and critical thinking through impactful teaching and research, and mentorship.
+    Dr. Ojeme remains committed to empowering the next generation of innovetors with technical tools and critical thinking through impactful teaching and research, and mentorship.
 ---
