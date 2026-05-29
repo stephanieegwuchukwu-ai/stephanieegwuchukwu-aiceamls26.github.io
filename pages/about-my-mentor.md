@@ -4,28 +4,23 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: Sudip Sharma
+  title: MD Candidate, Advanced Computing
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: https://www.linkedin.com/in/nxxis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Mr Sudip is a MD candidate who has extensive experience in healthcare AI research, including his ongoing master's thesis, which focuses on time-series deep learning for medical imaging and longitudinal clinical prediction. Additionally, he has developed ECG-based disease classification models and researches fairness and explainability in medical AI using techniques like Grad-CAM and datasets such as HAM10000.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Outside of research, Mr Sudip enjoys singing, playing guitar, and hiking too. He loves exploring nature and used to work as a software engineer back home migrating to pursue his master's degree.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: Dr. Blessing Ojeme
+  title: Assistant Professor, Department of Computer Science
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Ojeme leads an AI research group which focuses on healthcare technology, machine learning, and algorithmic fairness. The research explores how artificial intelligence can support more accurate, reliable, and equitable medical decision=making using real-world clinical data.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Dr. Nguyen has mentored many SAIRI students.
 ---
