@@ -8,8 +8,8 @@ project_title: "Predictive Stability vs. Fairness Instability in Clinical ECG Cl
 
 problem: |
   AI tools are increasingly being used in hospitals and clinics to help doctors diagnose heart conditions from ECG (electrocardiogram) recordings. But there's a growing concern: these AI systems don't always work equally well for everyone. They can quietly perform worse for certain groups of patients, like older women or men in a specific age range, even when their overall accuracy looks fine on paper. This means some patients may be more likely to receive a missed or incorrect diagnosis simply because of who they are.
- What makes this problem even trickier is that we don't fully understand how consistent these fairness issues are. A model might seem fair one time you train it, and unfair the next, even when trained on the same data. This gap in our understanding is dangerous: if fairness is unstable, then testing a model once and calling it "fair" isn't good enough.
- This project tackles that gap directly. We're asking: even if an AI's accuracy stays steady across repeated training runs, does its fairness stay steady too? If the answer is no, and we suspect it often isn't, then the field needs better tools and standards for evaluating and building trustworthy medical AI.
+  What makes this problem even trickier is that we don't fully understand how consistent these fairness issues are. A model might seem fair one time you train it, and unfair the next, even when trained on the same data. This gap in our understanding is dangerous: if fairness is unstable, then testing a model once and calling it "fair" isn't good enough.
+  This project tackles that gap directly. We're asking: even if an AI's accuracy stays steady across repeated training runs, does its fairness stay steady too? If the answer is no, and we suspect it often isn't, then the field needs better tools and standards for evaluating and building trustworthy medical AI.
 
 approach: |
   - Step 1 — Load and preprocess the PTB-XL dataset, a publicly available collection of nearly 22,000 real ECG recordings from PhysioNet, and organize patient data by age group and sex for subgroup analysis.
