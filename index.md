@@ -20,7 +20,7 @@ currently:
   - label: Photography
     text: "I love capuring little moment in nature, like the skies, buildings, and everything that catches my eye"
   - label: Music
-    text: "I enjoy listening to a variety of genres, mostly gospel, it lets me relax and just be present in the moment"
+    text: "I enjoy listening to different genres, but mostly gospel music"
   - label: Community Outreach
     text: "Giving back and supporting others is something I deeply value"
 ---
