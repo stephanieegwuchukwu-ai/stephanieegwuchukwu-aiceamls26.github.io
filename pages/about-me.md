@@ -27,10 +27,10 @@ about:
       description: captivating storylines, memorable characters, and late-night binge sessions.
 
   gallery:
-    - image: /assets/images/4bccbfed-a984-46bd-ae97-9ba4eb062177.JPG.svg
+    - image: assets/images/4bccbfed-a984-46bd-ae97-9ba4eb062177.JPG.svg
       caption: A great day on the trail with friends.
-    - image: /assets/images/C11AEEFF-6D41-4A3E-AA88-3F5283A13E2E.jpeg.svg
+    - image: assets/images/C11AEEFF-6D41-4A3E-AA88-3F5283A13E2E.jpeg.svg
       caption: Sunset from one of my ridge hike.
-    - image: /assets/images/5E0E1728-94C6-4EAD-9214-455F60982449.jpeg.svg
+    - image: assets/images/5E0E1728-94C6-4EAD-9214-455F60982449.jpeg.svg
       caption: My photography.
 ---
