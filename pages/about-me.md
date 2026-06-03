@@ -19,18 +19,18 @@ about:
     - icon: 🎨
       title: Drawing
       description: I make small illustrations and sketch in my spare time.
-    - icon: 🚲
-      title: Walking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: novels and design essays — both equally inspiring.
+    - icon: 🏔️
+      title: Hiking
+      description: I enjoy nature, spend some part of my summer going on hike, it's tiring but fun.
+    - icon: 🎬
+      title: Watching k-dramas
+      description: captivating storylines, memorable characters, and late-night binge sessions.
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+      caption: A great day on the trail with friends.
     - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+      caption: Sunset from one of my ridge hike.
     - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+      caption: My photography.
 ---
