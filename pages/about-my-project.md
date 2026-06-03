@@ -19,8 +19,7 @@ approach: |
   - Step 5 — Use Grad-CAM (a visual explanation tool) to show which parts of an ECG signal the model is actually paying attention to, and present all findings in a final research report and symposium presentation.
 
 outcome: |
-  By the end of the program, we expect to produce a complete research pipeline including trained models, fairness evaluation results across demographic subgroups, and statistical analysis showing how both performance and fairness vary across runs. The deliverables will include research-quality visualizations (learning curves, fairness metric tables, Grad-CAM heatmaps), a structured written research report, and a presentation at the SAIRI Research Symposium in late July.
-We hope others, that is, including researchers, clinicians, and future students, can use this work to better understand the risks of declaring an AI system "fair" based on a single evaluation. The code and analysis pipeline will be documented clearly enough that it can be extended to other medical datasets and classification tasks beyond ECG.
+  By the end of the program, we expect to produce a complete research pipeline including trained models, fairness evaluation results across demographic subgroups, and statistical analysis showing how both performance and fairness vary across runs. The deliverables will include research-quality visualizations (learning curves, fairness metric tables, Grad-CAM heatmaps), a structured written research report, and a presentation at the SAIRI Research Symposium in late July. We hope others, that is, including researchers, clinicians, and future students, can use this work to better understand the risks of declaring an AI system "fair" based on a single evaluation. The code and analysis pipeline will be documented clearly enough that it can be extended to other medical datasets and classification tasks beyond ECG.
 
 final_report_url: https://example.com/your-report.pdf
 
