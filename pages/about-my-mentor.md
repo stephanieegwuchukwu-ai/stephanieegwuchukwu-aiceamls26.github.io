@@ -9,7 +9,7 @@ graduate_mentor:
   image: /assets/images/IMG_1305.jpeg.svg
   website: https://www.linkedin.com/in/nxxis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   bio: |
-    Mr Sudip is a MD candidate who has extensive experience in healthcare AI research, including his ongoing master's thesis, which focuses on time-series deep learning for medical imaging and longitudinal clinical prediction. Additionally, he has developed ECG-based disease classification models and researches fairness and explainability in medical AI using techniques like Grad-CAM and datasets such as HAM10000.
+    Mr Sudip is a current MD candidate who has extensive experience in healthcare AI research, including his ongoing master's thesis, which focuses on time-series deep learning for medical imaging and longitudinal clinical prediction. Additionally, he has developed ECG-based disease classification models and researches fairness and explainability in medical AI using techniques like Grad-CAM and datasets such as HAM10000.
 
     Outside of research, Mr Sudip enjoys singing, playing guitar, and hiking too. He loves exploring nature and used to work as a software engineer back home migrating to pursue his master's degree.
 
@@ -20,7 +20,7 @@ faculty_mentor:
   website: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   
   bio: |
-    Dr. Ojeme teaches artificial intelligence, machine learning, python programming, data structures, design and analysis of algorithms, and  software engineering at both undergraduate and graduate levels at Morgan State University. Dr Ojeme leads an AI research group focusing on healthcare technology, machine learning, and algorithmic fairness. The research explores how artificial intelligence can support more accurate, reliable, and equitable medical decision-making using real-world clinical data.
+    Dr. Ojeme is an assistant Professor of Computer Science and a faculty member at Morgan State University, who teaches artificial intelligence, machine learning, python programming, data structures, design and analysis of algorithms, and  software engineering at both undergraduate and graduate levels at Morgan State University. Dr Ojeme leads an AI research group focusing on healthcare technology, machine learning, and algorithmic fairness. The research explores how artificial intelligence can support more accurate, reliable, and equitable medical decision-making using real-world clinical data.
 
     Dr. Ojeme remains committed to empowering the next generation of innovetors with technical tools and critical thinking through impactful teaching and research, and mentorship.
 ---
