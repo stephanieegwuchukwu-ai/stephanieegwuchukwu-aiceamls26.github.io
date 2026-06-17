@@ -7,7 +7,7 @@ graduate_mentor:
   name: Sudip Sharma
   title: MD Candidate, Advanced Computing
   image: assets/images/Sudip_HS.png.svg
-  website: https://www.linkedin.com/in/nxxis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  website: sudipsharma013.com.np
   bio: |
     Sudip Sharma is a graduate student in Advanced Computing at Morgan State University and a Research Assistant focused on artificial intelligence in healthcare. Originally from Nepal, he previously worked as a software engineer before pursuing his master's degree in the United States. His research centers on developing trustworthy and equitable AI systems, with experience in ECG-based disease classification, medical imaging, longitudinal clinical prediction, and explainable AI. Sudip is passionate about exploring how technology can be used to solve meaningful problems and create better healthcare solutions through AI research.
     
