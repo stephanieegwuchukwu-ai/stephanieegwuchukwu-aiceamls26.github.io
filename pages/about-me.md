@@ -13,7 +13,7 @@ about:
 
     My research interests  have to do with AI ethics, algorithmic biases, and fairness when it comes to healthcare technology, including how data-driven approaches enable reliable and humanistic medical decisions and ethics. I'm especially curious about how everyday tools can be made more accessible and adaptive through smart software.
 
-    Outside of class, when I'm not researching I'm in listening to music, I'm cooking, or hanging out with some friends.
+    Outside of class, when I’m not working on research, you can usually find me listening to music, trying new recipes in the kitchen, and spending time with friends.
 
   hobbies:
     - icon: 🎨
@@ -21,10 +21,10 @@ about:
       description: I make small illustrations and sketch in my spare time.
     - icon: 🏔️
       title: Hiking
-      description: I enjoy nature, spend some part of my summer going on hike, it's tiring but fun.
+      description: I enjoy spending time in nature and have spent parts of past summers going on hikes, It can be tiring at times, but it's always a fun and refreshing experience
     - icon: 🎬
       title: Watching k-dramas
-      description: captivating storylines, memorable characters, and late-night binge sessions.
+      description: I enjoy their engaging storylines, memorable characters, and unique perspectives. It's one of my favorite ways to relax and unwind after a busy day.
 
   gallery:
     - image: assets/images/4bccbfed-a984-46bd-ae97-9ba4eb062177.JPG.svg
