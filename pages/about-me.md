@@ -18,7 +18,7 @@ about:
   hobbies:
     - icon: 🎨
       title: Drawing
-      description: I make small illustrations and sketch in my spare time.
+      description: In my free time, I enjoy drawing and creating small sketches. It’s a hobby that lets me be creative, express myself, and bring ideas to life. 
     - icon: 🏔️
       title: Hiking
       description: I enjoy spending time in nature and have spent parts of past summers going on hikes, It can be tiring at times, but it's always a fun and refreshing experience
