@@ -3,8 +3,8 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: A Multi-Run Analysis of Deep Learning Models
-project_title: "Predictive Stability vs. Fairness Instability in Clinical ECG Classification"
+subtitle: A Study of Reproducibility, Bias, and Equity in Clinical Deep Learning Systems
+project_title: "Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models"
 
 problem: |
   AI tools are increasingly being used in hospitals and clinics to help doctors diagnose heart conditions from ECG (electrocardiogram) recordings. But there's a growing concern: these AI systems don't always work equally well for everyone. They can quietly perform worse for certain groups of patients, like older women or men in a specific age range, even when their overall accuracy looks fine on paper. This means some patients may be more likely to receive a missed or incorrect diagnosis simply because of who they are.
