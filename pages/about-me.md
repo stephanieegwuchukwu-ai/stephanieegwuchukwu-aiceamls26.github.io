@@ -27,10 +27,10 @@ about:
       description: I enjoy their engaging storylines, memorable characters, and unique perspectives. It's one of my favorite ways to relax and unwind after a busy day.
 
   gallery:
-    - image: assets/images/4bccbfed-a984-46bd-ae97-9ba4eb062177.JPG.svg
+    - image: assets/images/4bccbfed-a984-46bd-ae97-9ba4eb062177.JPG
       caption: A great day on the trail with friends.
-    - image: assets/images/C11AEEFF-6D41-4A3E-AA88-3F5283A13E2E.jpeg.svg
+    - image: assets/images/C11AEEFF-6D41-4A3E-AA88-3F5283A13E2E.jpeg
       caption: Sunset from one of my ridge hike.
-    - image: assets/images/5E0E1728-94C6-4EAD-9214-455F60982449.jpeg.svg
+    - image: assets/images/5E0E1728-94C6-4EAD-9214-455F60982449.jpeg
       caption: My photography.
 ---
