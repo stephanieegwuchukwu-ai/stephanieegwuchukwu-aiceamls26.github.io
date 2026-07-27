@@ -13,7 +13,7 @@ about:
 
     My research interests  have to do with AI ethics, algorithmic biases, and fairness when it comes to healthcare technology, including how data-driven approaches enable reliable and humanistic medical decisions and ethics. I'm especially curious about how everyday tools can be made more accessible and adaptive through smart software.
 
-    Outside of class, when I’m not working on research, you can usually find me listening to music, trying new recipes in the kitchen, and spending time with friends.
+    Outside of class, when I’m not working on research, you can usually find me singing, listening to music, trying new recipes in the kitchen, and spending time with friends and family.
 
   hobbies:
     - icon: 🎨
@@ -29,8 +29,8 @@ about:
   gallery:
     - image: assets/images/4bccbfed-a984-46bd-ae97-9ba4eb062177.JPG
       caption: A great day on the trail with friends.
-    - image: assets/images/C11AEEFF-6D41-4A3E-AA88-3F5283A13E2E.jpeg
-      caption: Sunset from one of my ridge hike.
+    - image: assets/images/IMG_2473.jpeg
+      caption: Singing with the Morgan State Choir.
     - image: assets/images/5E0E1728-94C6-4EAD-9214-455F60982449.jpeg
       caption: My photography.
 ---
